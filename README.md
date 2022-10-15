@@ -1,0 +1,1 @@
+# Nesse projeto foi desenvolvido um código python para criar uma lista de funcionario,onde o o usuário podera fazer um filtro dos funcionarios.
